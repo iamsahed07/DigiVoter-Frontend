@@ -1,6 +1,6 @@
 import axios from "axios";
 const client = axios.create({
-  baseURL: "https://digi-voter-server.vercel.app/",
+  baseURL: "https://digivoter-server.onrender.com/",
 });
 
 export default client;
