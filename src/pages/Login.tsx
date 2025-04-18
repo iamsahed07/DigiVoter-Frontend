@@ -97,7 +97,7 @@ function Login() {
     <div className="flex items-center justify-center min-h-screen bg-gradient-to-r from-blue-300 to-indigo-500">
       <div className="flex flex-col md:flex-row items-center justify-center md:w-[80%] w-full md:max-w-[800px] rounded-lg md:shadow-lg">
         <img
-          src="https://res.cloudinary.com/dosdjk5jz/image/upload/v1744997682/icon_tbsmtf.png"
+          src="https://res.cloudinary.com/dosdjk5jz/image/upload/v1744997572/home3_an8dki.webp"
           alt="Login page"
           className="flex items-center justify-center md:w-1/2 rounded-lg transition-transform transform hover:scale-105"
           style={{ objectFit: "cover" }}
